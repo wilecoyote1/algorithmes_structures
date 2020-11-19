@@ -3,7 +3,7 @@
  * écrire un programme qui trouve la Niéme valeur de la suite de Fibonacci, n est fourni en paramétre
  * 
  * pour compiler 
- *  g++ -o fibonacci.out fibonacci.cpp
+ * g++ -o fibonacci.out fibonacci.cpp
  * 
  * */
 #include <iostream>
